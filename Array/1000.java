@@ -3,15 +3,15 @@ class Array {
         // declares an array of integers
        int z=0;
   
-        for (int i=0; i<11; i++) {
+        for (int i=1; i<10; i++) {
            
-            for (int j=0; j<1001; j++) {
+            for (int j=1; j<1000; j++) {
                 
                 z= i*j;
                 
                 System.out.print(" " + z);
             }     
         }
-        
+        System.out.println();
     }
 }

@@ -1,7 +1,7 @@
 class MyFactorial {
     public static void main (String[] args) {
         
-        double fact=0;
+        double fact=1;
 
         int N = 7;
         double sum =0;

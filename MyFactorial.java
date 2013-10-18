@@ -4,7 +4,7 @@ class MyFactorial {
         double fact=1;
 
         int N = 7;
-        double sum =0;
+      
         for (int i=1; i <= N; i++) {
             
             fact *= i;
